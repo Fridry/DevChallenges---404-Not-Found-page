@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://dev-challenges-404-not-found-page.vercel.app/}">
+    <a href="https://dev-challenges-404-not-found-page.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/UWsltQvf9airbBgmBCXS">
       Solution
     </a>
     <span> | </span>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![Desktop screenshot](https://raw.githubusercontent.com/Fridry/DevChallenges---404-Not-Found-page/main/assets/images/screenshot-404-page.png)
+![Desktop screenshot](https://raw.githubusercontent.com/Fridry/DevChallenges---404-Not-Found-page/main/assets/images/screenshot-404-page.png) ![Modile screenshot](https://raw.githubusercontent.com/Fridry/DevChallenges---404-Not-Found-page/main/assets/images/screenshot-404-page-mobile.png)
 
 ### Built With
 
